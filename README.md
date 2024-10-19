@@ -1,2 +1,2 @@
 # Taschenrechner
-Das ist ein Taschenrechner der hat sachen rechnet. 
+Das ist ein einfacher Taschenrechner
